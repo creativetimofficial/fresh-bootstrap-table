@@ -1,1 +1,0 @@
-# fresh-bootstrap-table
